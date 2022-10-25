@@ -4,7 +4,7 @@ In this challenge you will build a basic React application that lets a customer 
 
 ## Candidate Notes
 
-`Use this section to add any notes for the reviewer`
+`The data filtering was a bit difficult to understand. Only installed react-router v6 to use browser history and navigation. It would have been nice to have a couple of extra images (bk_logo and home_bg) and fonts too. Nice exercise`
 
 ## Instructions
 
